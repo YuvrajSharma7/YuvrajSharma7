@@ -5,6 +5,7 @@
 - 📫 How to reach me Mob.8168962381
 - 📫 email- uvraj@560@gmail.com
 - Current City- Chandigarh
+- Country- India
 
 <!---
 YuvrajSharma7/YuvrajSharma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
