@@ -2,7 +2,8 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java and AWS
 - 💞️ I’m looking to collaborate on my learnings
-- 📫 How to reach me Ph.-8168962381, uvraj@560@gmail.com
+- 📫 How to reach me Mob.8168962381
+- 📫 email- uvraj@560@gmail.com
 
 <!---
 YuvrajSharma7/YuvrajSharma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
