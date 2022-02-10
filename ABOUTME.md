@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on my learnings
 - 📫 How to reach me Mob.8168962381
 - 📫 email- uvraj@560@gmail.com
+- Current City- Chandigarh
+- Country- India
 
 Final Copy
 <!---
